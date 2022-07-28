@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/client-server-front/static/css/main.d24cfd3a.css",
+    "main.js": "/client-server-front/static/js/main.59518182.js",
+    "static/media/train-logo.png": "/client-server-front/static/media/train-logo.406ef58e34e3e0dce640.png",
+    "index.html": "/client-server-front/index.html",
+    "main.d24cfd3a.css.map": "/client-server-front/static/css/main.d24cfd3a.css.map",
+    "main.59518182.js.map": "/client-server-front/static/js/main.59518182.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d24cfd3a.css",
+    "static/js/main.59518182.js"
+  ]
+}
